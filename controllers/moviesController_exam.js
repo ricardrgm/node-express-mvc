@@ -1,5 +1,5 @@
 import moviesModel from '../models/moviesModel.js';
-import actorsModel from '../models/actorsModel_exam.js';
+import actorsModel from '../models/actorsModel.js';
 import moviePojo from '../models/moviePojo.js';
 import actorPojo from '../models/actorPojo.js';
 
