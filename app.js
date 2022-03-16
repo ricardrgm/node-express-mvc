@@ -65,7 +65,7 @@ try {
     // Película con id:2 (1pto)
     data_movie.req = { id: 2 };
     getMovieId(data_movie);
-    
+ 
     // Añade una nueva película (1pto)
     data_movie.req = new_movie;
     createMovie(data_movie);
